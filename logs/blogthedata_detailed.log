@@ -1,0 +1,11 @@
+INFO 2023-06-15 05:46:01,602 MainThread 140544611061760 cron cron.py 8 django my_function 7527 call my function 
+INFO 2023-06-15 05:46:01,602 MainThread 140323972182016 cron cron.py 15 django print_hello 7528 call hello world function .
+INFO 2023-06-15 05:46:17,775 MainThread 139709327224832 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 7530 Watching for file changes with StatReloader
+INFO 2023-06-15 05:47:01,952 MainThread 139696364326912 cron cron.py 15 django print_hello 7709 call hello world function .
+INFO 2023-06-15 05:47:01,973 MainThread 140102807666688 cron cron.py 8 django my_function 7710 call my function 
+INFO 2023-06-15 05:48:01,360 MainThread 140302328479744 cron cron.py 15 django print_hello 7758 call hello world function .
+INFO 2023-06-15 05:48:01,361 MainThread 139662852993024 cron cron.py 8 django my_function 7759 call my function 
+INFO 2023-06-15 05:49:01,700 MainThread 140602119331840 cron cron.py 8 django my_function 7830 call my function 
+INFO 2023-06-15 05:49:01,701 MainThread 140354983530496 cron cron.py 15 django print_hello 7829 call hello world function .
+INFO 2023-06-15 05:50:02,051 MainThread 140285605044224 cron cron.py 15 django print_hello 7884 call hello world function .
+INFO 2023-06-15 05:50:02,075 MainThread 140536768835584 cron cron.py 8 django my_function 7883 call my function 
