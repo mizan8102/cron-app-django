@@ -9,3 +9,7 @@ INFO 2023-06-15 05:49:01,700 MainThread 140602119331840 cron cron.py 8 django my
 INFO 2023-06-15 05:49:01,701 MainThread 140354983530496 cron cron.py 15 django print_hello 7829 call hello world function .
 INFO 2023-06-15 05:50:02,051 MainThread 140285605044224 cron cron.py 15 django print_hello 7884 call hello world function .
 INFO 2023-06-15 05:50:02,075 MainThread 140536768835584 cron cron.py 8 django my_function 7883 call my function 
+INFO 2023-06-15 05:51:01,401 MainThread 139737392254976 cron cron.py 15 django print_hello 7927 call hello world function .
+INFO 2023-06-15 05:51:01,405 MainThread 139742905692160 cron cron.py 8 django my_function 7926 call my function 
+INFO 2023-06-15 05:52:01,775 MainThread 140311398920192 cron cron.py 15 django print_hello 8027 call hello world function .
+INFO 2023-06-15 05:52:01,786 MainThread 140677277028352 cron cron.py 8 django my_function 8026 call my function 
